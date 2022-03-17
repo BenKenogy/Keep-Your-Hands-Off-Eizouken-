@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Erai-raws] Русский
+Title: [Erai-raws] Български
 
 ScriptType: v4.00+
 Collisions: Normal
@@ -19,7 +19,7 @@ Style: text2,tahoma,18,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.48,Default,,0000,0000,0000,,{\move(322,235,322,45)}K K
 Dialogue: 0,0:00:02.18,0:00:05.24,Default,Asakusa,0000,0000,0000,,Този път в анимето трябва да има звук!
-Dialogue: 0,0:00:03.05,0:00:08.05,Default,,0,0,0,,{\an8} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}
+Comment: 0,0:00:03.05,0:00:08.05,Default,,0,0,0,,{\an8} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}{uncomment извън АнимаИнк}
 Dialogue: 0,0:00:05.56,0:00:07.30,Default,Mizusaki,0000,0000,0000,,На сто процента!
 Dialogue: 0,0:00:07.30,0:00:08.32,Default,Asakusa,0000,0000,0000,,И сюжет!
 Dialogue: 0,0:00:08.42,0:00:10.48,Default,Asakusa,0000,0000,0000,,Трябва да се развиваме и да вървим напред!
