@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: Русский
+Title: Български
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 624
@@ -12,7 +12,7 @@ Style: DefaultS,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.08,0:00:08.08,Default,,0,0,0,,{\an2} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}
+Comment: 0,0:00:03.08,0:00:08.08,Default,,0,0,0,,{\an2} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}{uncomment извън АнимаИнк}
 Dialogue: 0,0:00:08.48,0:00:11.19,DefaultS,Whiteboard sign,0000,0000,0000,,{\pos(426.4,24.2)\blur4\c&H000000&\3c&HF6F6F6&}ДО КРАЙНИЯТ СРОК\N 45 ДНИ!
 Dialogue: 0,0:00:11.20,0:00:12.95,Default,Kubo,0000,0000,0000,,Просто искам да поясня:
 Dialogue: 0,0:00:12.95,0:00:16.07,Default,Kubo,0000,0000,0000,,защо целият град се въоръжава?
