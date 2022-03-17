@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Erai-raws] Русский
+Title: [Erai-raws] Български
 
 ScriptType: v4.00+
 Collisions: Normal
@@ -23,7 +23,7 @@ Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.48,Default,Logo sign,0000,0000,0000,,{\fs80\shad0\bord6\3c&H000000&\c&H8C8284&\frx180\fry0\pos(319.333,243.778)}K K
 Dialogue: 1,0:00:00.00,0:00:02.48,Default,Logo sign,0000,0000,0000,,{\fs80\shad0\bord2\3c&HFFFFFF&\c&H8C8284&\frx180\fry0\pos(319.333,243.778)}K K
-Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,{\an2} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}
+Comment: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,{\an2} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}{uncomment извън АнимаИнк}
 Dialogue: 0,0:00:18.70,0:00:20.38,Default,Mizusaki,0000,0000,0000,,Някаква медуза е това, а не експлозия.
 Dialogue: 0,0:00:20.38,0:00:22.77,Default,Mizusaki,0000,0000,0000,,А сенките изобщо не изглеждат така.
 Dialogue: 0,0:00:25.07,0:00:27.84,Default,Asakusa,0000,0000,0000,,Накрая на покрива нарисувах и езерце, \Nно откъде е водата там горе?
