@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Erai-raws] Русский
+Title: [Erai-raws] Български
 
 ScriptType: v4.00+
 Collisions: Normal
@@ -23,7 +23,7 @@ Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.30,0:00:02.98,Default,M,0000,0000,0000,,Демото беше съвсем различно!
 Dialogue: 0,0:00:02.98,0:00:05.24,Default,M,0000,0000,0000,,Това правилният трак ли е?!
-Dialogue: 0,0:00:02.98,0:00:07.98,Default,,0,0,0,,{\an8} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}
+Comment: 0,0:00:02.98,0:00:07.98,Default,,0,0,0,,{\an8} Превод: BenKenogy\N{\u1}anemainc.ogistoyanov.com{\u0}{uncomment извън АнимаИнк}
 Dialogue: 0,0:00:05.24,0:00:07.76,Default,D,0000,0000,0000,,Да, по продължителност съвпада.
 Dialogue: 0,0:00:07.76,0:00:10.86,Default,D,0000,0000,0000,,И заглавието е правилно.\NСъс сигурност същият.
 Dialogue: 0,0:00:10.86,0:00:12.01,Default,,0,0,0,,{\an5)\fscx94}Демо Танцувална сцена                      {\fscx70}(получено преди 4 седмици)
